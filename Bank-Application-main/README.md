@@ -1,6 +1,5 @@
 # Bank Application
-Simulate Bank Application With JavaFX and Database
-### This project is related to the task of our university, which has been mentioned  by Professor Jafar Tanha
+Simulate Bank Application With Java and Database
 ------------------------------------
 >***You need to do something before running the project***
 </br></br>
@@ -48,17 +47,8 @@ The custom page has 6 separate sections which are:
 ![](https://github.com/alibabakhanlu12/Bank-Application/blob/main/ScreenShots/EmployeeMainPage.png)
 ------------------------------------
 >**Admin**</br></br>
->The Admin page has 3 separate sections which are:                                                                      
->1-  Control Customers(Seeing Their Information Or Even Delet who you want for good Reason)                                                                           
->2-  Control Employees (Seeing Their Information Or Even Delet who you want for good Reason)                                                
->3- See Report of customer Transfer                                                                                  
-![](https://github.com/alibabakhanlu12/Bank-Application/blob/main/ScreenShots/AdminPageOverall.png)
 
 
-### Those who collaborated on this project :
-[Ali Ahmadi](https://github.com/Ali-Ahmadii)                                                                                                                          
-[Aydin Ranjbaran](https://github.com/aydinranjbaran)                                                                                                                   
-[Ali Babakhanlu](https://github.com/alibabakhanlu12)
- 
-### and finished successfully:)) 😊😎
+
+
 
